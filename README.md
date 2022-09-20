@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satvik-1945
-- 👀 I’m interested in  DSA , Web development , SQl , competetive coding.
+- 👀 I’m interested in  DSA , Machine Learning,Data Scinece , SQl , Python,Writing Articles.
 - 🌱 I’m currently learning DSA , Web development , SQl .
 - 💞️ I’m looking to collaborate on website for travel guide.
 - 📫 How to reach me satviktejas@gmail.com
