@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | NLP & Retrieval Systems | IIIT Bhopal (GPA 9.38)**  
 
-I build AI systems from first principles — from neural networks written in NumPy to production-style LLM orchestration systems.
+I build AI systems from first principles, from neural networks written in NumPy to production-style LLM orchestration systems.
 
 ---
 
